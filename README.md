@@ -19,7 +19,7 @@
 
 - 📘 Graduating Information Systems
 
-- 🌱 I'm currently learning C, C#, SQL
+- 🌱 I'm currently learning C, C#, SQL, Js, Html,Css
 
 - 💻 Taking a WEB development course
 
