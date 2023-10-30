@@ -1,4 +1,4 @@
-### Olá eu sou o Línicker 👋
+### Hello i am Línicker 👋
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kost337)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADnicker-ostroski-mota-b78034269/)
@@ -6,7 +6,7 @@
 
 ![Línicker GitHub stats](https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula)
 
-### Tecnologias que eu estou utilizando 🖥️
+### Technologies i'm using 🖥️
 
 <div style= "display: inline_block"><br/>
   <img align = "center" alt= "C" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -17,15 +17,15 @@
 
 
 
-- 📘 Graduando Sistemas de Informação
+- 📘 Graduating Information Systems
 
-- 🌱 Atualmente estou aprendendo C,C#,SQL
+- 🌱 I'm currently learning C, C#, SQL
 
-- 💻 Realizando curso de desenvolvimento WEB
+- 💻 Taking a WEB development course
 
-- ⚡ Games developer
+- ⚡ Game developer
 
-## Alguns vídeos do canal:
+## Some videos of my channel:
 
 -[Como otimizar seu jogo no UPBGE](https://www.youtube.com/watch?v=8QVvmya02yM&ab_channel=Kost)<br/>
 -[Criando um jogo do seriado AIRWOLF](https://www.youtube.com/watch?v=zrqcBKpr3dk&ab_channel=Kost)<br/>
