@@ -13,10 +13,11 @@
   <img align = "center" alt= "CSharp" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align = "center" alt= "git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align = "center" alt= "SQL Workbench" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/>
-
-
-
+  <img align = "center" alt= "Figma" src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align = "center" alt= "Blender" src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+  <img align = "center" alt= "CSS" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align = "center" alt= "HTML" src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  
 - 📘 Graduating Information Systems
 
 - 🌱 I'm currently learning C, C#, SQL, Js, Html,Css
