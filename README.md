@@ -1,4 +1,4 @@
-### Hello i am Línicker 👋
+### Hello i am Línicker 👋🏻
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kost337)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADnicker-ostroski-mota-b78034269/)
