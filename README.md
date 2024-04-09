@@ -4,7 +4,7 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADnicker-ostroski-mota-b78034269/)
 
 <a href="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula" />
 </a>
 <br><br/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LinickerOstroski&layout=compact">
