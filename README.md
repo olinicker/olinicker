@@ -7,11 +7,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula" />
 </a>
 <br><br/>
+
+
+<!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LinickerOstroski&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinickerOstroski&layout=compact" />
 </a>
 
+
 ### Technologies i'm using 🖥️
+
 
 <div style= "display: inline_block"><br/>
   <img align = "center" alt= "git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -23,12 +28,8 @@
   <img align = "center" alt= "CSS" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img align = "center" alt= "HTML" src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img align = "center" alt= "HTML" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  
+-->
 - 📘 Graduating Information Systems
-
-- 🌱 I'm currently learning Front-end Stacks
-
-- ⚡ Game developer UPBGE
 
 ## Some videos of my channel:
 
