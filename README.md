@@ -1,5 +1,7 @@
 ### Hello i am Línicker 👋🏻
 
+I am passionate about information technology and currently pursuing a degree in Information Systems. My focus is on mastering both front-end and back-end technologies with the goal of becoming a proficient full-stack developer. Explore my repositories and feel free to provide feedback and suggestions for improvement.
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kost337)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linickerostroski/)
 
