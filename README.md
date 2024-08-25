@@ -1,7 +1,7 @@
 ### Hello i am Línicker 👋🏻
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kost337)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADnicker-ostroski-b78034269/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linickerostroski/)
 
 <a href="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula" />
