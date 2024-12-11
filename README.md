@@ -1,56 +1,57 @@
-### Hello i am Línicker 👋🏻
+### Olá, me chamo Línicker 👋🏻  
 
-I am passionate about information technology and currently pursuing a degree in Information Systems. My focus is on mastering both front-end and back-end technologies with the goal of becoming a proficient full-stack developer. Explore my repositories and feel free to provide feedback and suggestions for improvement.
+Sou apaixonado por tecnologia da informação e atualmente estou cursando bacharelado em **Sistemas de Informação**. Meu objetivo é dominar tanto as tecnologias de **front-end** quanto de **back-end**, para me tornar um desenvolvedor **full-stack** completo.  
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kost337)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linickerostroski/)
+Explore meus repositórios e sinta-se à vontade para deixar **feedback** ou sugestões de melhoria. Sua contribuição é muito bem-vinda!  
 
-<a href="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula" />
-</a>
-<br><br/>
+- 📘 **Graduando em Sistemas de Informação**
 
+---
 
-<!--
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LinickerOstroski&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinickerOstroski&layout=compact" />
-</a>
+### 🌐 Conecte-se comigo, Links nos badgets!
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linicker.dev/)  
+Lá você encontra conteúdos e dicas de programação!  
 
-### Technologies i'm using 🖥️
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kost337)  
+Se inscreva no meu canal para aprender sobre **programação** e **criação de jogos**.  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linickerostroski/)  
+Vamos nos conectar no LinkedIn! Compartilho eventos, certificações e muito mais.  
 
-<div style= "display: inline_block"><br/>
-  <img align = "center" alt= "git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align = "center" alt= "git" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align = "center" alt= "SQL Workbench" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align = "center" alt= "HTML" src = "https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <br><br/>
-  <img align = "center" alt= "Blender" src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  <img align = "center" alt= "CSS" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align = "center" alt= "HTML" src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align = "center" alt= "HTML" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
--->
-- 📘 Graduating Information Systems
+---
 
-## Some videos of my channel:
+### 📊 Estatísticas do GitHub  
 
--[Como otimizar seu jogo no UPBGE](https://www.youtube.com/watch?v=8QVvmya02yM&ab_channel=Kost)<br/>
--[Criando um jogo do seriado AIRWOLF](https://www.youtube.com/watch?v=zrqcBKpr3dk&ab_channel=Kost)<br/>
--[Física de carro NO PYTHON](https://www.youtube.com/watch?v=w4MEoqmSipk&ab_channel=Kost)<br/>
+<div align="center">
 
+<a href="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=dracula">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=light" />  
+</a>  
 
-<!--
-**LinickerOstroski/LinickerOstroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎥 Destaques do meu canal no YouTube  
+
+- [Como otimizar seu jogo no UPBGE](https://www.youtube.com/watch?v=8QVvmya02yM&ab_channel=Kost)  
+- [Criando um jogo do seriado AIRWOLF](https://www.youtube.com/watch?v=zrqcBKpr3dk&ab_channel=Kost)  
+- [Física de carro no Python](https://www.youtube.com/watch?v=w4MEoqmSipk&ab_channel=Kost)  
+
+---
+
+<!--  
+**LinickerOstroski/LinickerOstroski** é um ✨ _repositório especial_ ✨ porque seu `README.md` aparece no perfil do GitHub.  
+
+Aqui vão algumas ideias para você começar:  
+
+- 🔭 Atualmente trabalhando em...  
+- 🌱 Atualmente aprendendo...  
+- 👯 Buscando colaborar em...  
+- 🤔 Precisando de ajuda com...  
+- 💬 Pergunte-me sobre...  
+- 📫 Como me encontrar:  
+- 😄 Pronomes:  
+- ⚡ Curiosidade:  
+-->  
