@@ -10,14 +10,14 @@ Explore meus repositórios e sinta-se à vontade para deixar **feedback** ou sug
 
 ### 🌐 Conecte-se comigo, Links nos badgets!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linicker.dev/)  
 Lá você encontra conteúdos e dicas de programação!  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linicker.dev/)  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kost337)  
 Se inscreva no meu canal para aprender sobre **programação** e **criação de jogos**.  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kost337)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linickerostroski/)  
 Vamos nos conectar no LinkedIn! Compartilho eventos, certificações e muito mais.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linickerostroski/)  
 
 ---
 
