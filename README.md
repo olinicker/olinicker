@@ -26,7 +26,7 @@ Vamos nos conectar no LinkedIn! Compartilho eventos, certificações e muito mai
 <div align="center">
 
 <a href="https://github-readme-stats.vercel.app/api?username=olinicker&show_icons=true&theme=dracula">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinickerOstroski&show_icons=true&theme=light" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olinicker&show_icons=true&theme=light" />  
 </a>  
 
 </div>
